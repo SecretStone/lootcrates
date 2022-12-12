@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "keymod",
+    "name": "Key Mod",
+    "description": "Adds the Keys for the Case.",
+    "vesion": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Stone"],
+    "credits": "GottaBeJoshing for the Textures",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

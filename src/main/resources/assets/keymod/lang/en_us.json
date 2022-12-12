@@ -1,0 +1,29 @@
+{
+  "itemGroup.keymod": "Crates",
+
+  "item.keymod.melee_key": "Melee Crate Key",
+  "item.keymod.ammo_key": "Ammo Crate Key",
+  "item.keymod.armor_key": "Armor Crate Key",
+  "item.keymod.artefact_key": "Artefact Crate Key",
+  "item.keymod.bow_key": "Bow Crate Key",
+  "item.keymod.enchant_key": "Enchant Crate Key",
+  "item.keymod.food_key": "Food Crate Key",
+  "item.keymod.gun_key": "Gun Crate Key",
+  "item.keymod.shield_key": "Shield Crate Key",
+  "item.keymod.tool_key": "Pickaxe Crate Key",
+
+
+
+  "block.keymod.test_block" : "Test Block",
+  "block.keymod.ammo_crate" : "Ammo Crate",
+  "block.keymod.armor_crate" : "Armor Crate",
+  "block.keymod.artefact_crate" : "Artefact Crate",
+  "block.keymod.bow_crate" : "Bow Crate",
+  "block.keymod.enchant_crate" : "Enchant Crate",
+  "block.keymod.food_crate" : "Food Crate",
+  "block.keymod.gun_crate" : "Gun Crate",
+  "block.keymod.melee_crate" : "Melee Crate",
+  "block.keymod.shield_crate" : "Shield Crate",
+  "block.keymod.tool_crate" : "Pickaxe Crate"
+
+}

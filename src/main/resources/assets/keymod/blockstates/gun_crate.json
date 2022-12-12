@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "keymod:block/gun_crate" }
+  }
+}
